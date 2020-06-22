@@ -1,0 +1,37 @@
+h1, h2 {
+    font-family: Georgia;
+    text-align: center;
+}
+
+.main {
+    color: darkgreen;
+}
+
+#middle {
+    line-height: 25px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.note {
+    text-transform: uppercase;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+}
