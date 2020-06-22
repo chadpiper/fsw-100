@@ -1,0 +1,86 @@
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    background-color: rgb(11, 25, 107);
+}
+
+
+.three {
+    position: relative;
+    left: 500px;
+    text-decoration: underline;
+    font-weight: bold;
+    color: powderblue;
+
+}
+
+.two {
+    position: relative;
+    left: 250px;
+    text-decoration: underline;
+    font-weight: bold;
+    color: powderblue;
+
+}
+
+ 
+.one {
+    text-decoration: underline;
+    font-weight: bold;
+    color: powderblue;
+
+}
+ 
+ 
+ 
+ img {
+     float: left;
+     height: 200px;
+     width: 250px;
+     margin: 20px;
+     
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ .friend {
+    display: inline-block;
+    border: 3px solid rgb(139, 17, 17) ;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 30px;
+    background-color: grey;
+    box-shadow: 5px 5px 5px midnightblue;
+    
+ }
+ 
+ .eating {
+     display: inline-block;
+     border: 3px solid rgb(139, 17, 17);
+     border-radius: 10px;
+     padding: 15px;
+     margin: 30px;
+     background-color: grey;
+     box-shadow: 5px 5px 5px midnightblue;
+ }
+ 
+ .health {
+     display: inline-block;
+     border: 3px solid rgb(139, 17, 17);
+     border-radius: 10px;
+     padding: 15px;
+     margin: 30px;
+     background-color: grey;
+     box-shadow: 5px 5px 5px midnightblue;
+ }
+
+
+
+
+
+
+
+
