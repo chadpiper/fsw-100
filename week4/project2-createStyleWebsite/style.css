@@ -1,0 +1,124 @@
+.nav-bar {
+    text-align: center;
+}
+
+
+body {
+    background-color: dimgrey;
+}
+
+
+
+li {
+    display: inline;
+    font-size: 20px;
+    font-family: 'Notable', sans-serif;   
+}
+
+    
+
+
+a:link {
+    text-decoration: none;
+}
+
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+a {
+    color: black;
+}
+
+
+
+img {
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Krona One', sans-serif;
+    background-color: darkred;
+}
+
+
+
+
+
+td:hover {
+    background-color: rgb(146, 146, 146);
+}
+
+th, td {
+    font-size: 25px;
+    color: cornsilk;
+    padding: 10px 10px 10px 10px;
+    border: solid black;
+    
+    
+}
+
+button {
+  margin-left: 15px;
+  color: black;
+
+}
+
+.home {
+    position: relative;
+    right: 400px;
+}
+
+.contact {
+    position: relative;
+    left: 400px;
+}
+
+table {
+   margin-top: 100px;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    font-family: 'Notable', sans-serif;
+}
+
+hr {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.food {
+    text-align: center;
+    font-family: 'Piedra', cursive;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+.app {
+    position: relative;
+    right: 200px;
+    text-decoration: underline;
+}
+
+.dess {
+    position: relative;
+    left: 200px;
+    text-decoration: underline;
+}
+
+.main {
+    text-decoration: underline;
+}
