@@ -151,7 +151,9 @@ button{
  .cracks {
      float: left;
      margin-right: 10%;
+     margin-left: 20px;
      height: 400px;
+     margin-bottom: 50px;
  }
 
 .repair {
