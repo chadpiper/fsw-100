@@ -1,0 +1,183 @@
+.grid-container {
+    display: grid;
+}
+
+.grid-item.header {
+    background-color: crimson;
+    text-align: center;
+    border-radius: 20px 20px 0 0;
+}
+
+.grid-item.nav  {
+    background-color: darkblue;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+    margin-bottom: 20px;
+}
+
+.home {
+    
+    display: inline;
+    color: white;
+    margin-right: 20px;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.service {
+    display: inline;
+    color: white;
+    margin-right: 20px;
+    font-family: 'Merriweather', serif;
+}
+
+.contact {
+    display: inline;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+
+.windshield {
+margin-left: 20%;
+}
+
+.cracks {
+    
+    margin-top:50px;
+    height:300px;
+}
+
+.repair {
+    margin-left:10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+    
+a:hover {
+    background-color: dimgray;
+}
+
+
+
+.color {
+    color: red;
+}
+
+.grid-item.footer {
+    background-color: crimson;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+h1 {
+    font-family: 'Mulish', sans-serif;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+
+ul {
+    font-family: 'Merriweather', serif;
+    
+}
+
+span {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+fieldset {
+    width: 30px;
+    padding: 50px;
+    background: grey;
+    border-radius: 10px;
+    box-shadow: 5px 4px black;
+    margin-bottom: 20px;
+    margin-right: 100px;
+}
+
+iframe {
+    width: 500px;
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+}
+
+legend {
+    text-align: center;
+    font-size: 30px;
+    
+
+}
+
+button{
+    margin-left: 70px;
+    
+}
+
+
+@media screen and (min-width: 786px) {
+    .grid-item.nav  {
+        background-color: darkblue;
+        text-align: left;
+        border-radius: 0 0 20px 20px;
+}
+
+.windshield {
+    margin-right: 20px;
+    margin-left: 0;
+    float: left;
+   }
+
+
+.crack {
+       float: right;
+       margin-left: 20px;
+       width: 50%px;
+   }
+
+ .cracks {
+     float: left;
+     margin-right: 10%;
+     height: 400px;
+ }
+
+.repair {
+    float: left;
+    
+    margin: 40px;
+    
+    
+}
+
+.fix {
+padding-bottom: 200px;
+}
+
+.repairing {
+padding-top: 120px;
+}
+
+fieldset {
+    margin-left: 30%;
+}
+
+iframe {
+    margin-left: 15%;
+}
+}
+
+
+
